@@ -14,6 +14,8 @@ Adding a whiteboard problem
 ---------------------------
 To add a problem to the whiteboard codingchallenges you can contact the owners or submit a pull request from your repository with only the changes to add a file to the codingchallenges' **master** branch
 
+Problems should be formatted as markdown (.md) files with the prompt and example test cases. See the repo for examples.
+
 Submitting your Solutions
 -------------------------
 Once you're done, push your changes to GitHub and issue a pull request from your repository's master branch to **your** codingchallenges branch.
