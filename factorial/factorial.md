@@ -1,6 +1,6 @@
 Factorial
 ============
-Write a function that calculates the factorial of a number
+Write a function that calculates the factorial of a number.
 
 Background
 ---------------------
@@ -12,9 +12,15 @@ This evaluates to:
 ```
 x * (x - 1) * (x - 2) * ... (x - (x - 1))
 ```
-Example
+Examples
 ---------------------
 ```
 5! = 5 * 4 * 3 * 2 * 1
 factorial(5) = 120
+```
+
+```
+factorial(1) = 1
+factorial(0) = 1
+factorial(-3) = -(3 * 2 * 1) = 6
 ```
